@@ -1,6 +1,6 @@
 ### Hi there, I'm Omkar 👋
 
-Here are some ideas to get you started:
+Electronics Engineering Student at VJTI, Mumbai
 
 - 🌱 I’m currently learning SLAM
 - 👯 I’m looking to collaborate on projects involving Mobile Robots
