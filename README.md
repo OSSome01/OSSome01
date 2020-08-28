@@ -1,5 +1,8 @@
 ### Hi there, I'm Omkar 👋
 
+|:heart: Learning | :yellow_heart: Robotics | :blue_heart: Anime|
+|:---:|:---:|:---:|
+
 Electronics Engineering Student at VJTI, Mumbai
 
 - 🌱 I’m currently learning SLAM
