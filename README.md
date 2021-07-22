@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">As aspiring Roboticist and Machine Learning enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ossome01&label=Profile%20views&color=0e75b6&style=flat" alt="OSSome01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OSSome01" alt="OSSome01" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/omkar_sargar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkar_sargar" height="30" width="40" /></a>
