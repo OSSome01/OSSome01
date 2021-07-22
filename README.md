@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
-<h3 align="center">As aspiring Roboticist and Machine Learning enthusiast</h3>
+<h3 align="center">As aspiring Roboticist and a Machine Learning enthusiast</h3>
 
-## I'm an undergrad in Electronics Engineering :mortar_board:.  
+
+<br>
+
+### I'm an undergrad in Electronics Engineering :mortar_board:.  
 
 - 🔭 I’m currently working on SLAM and Voice synthesis :nerd_face: 
 - 👯 I’m looking to collaborate with others who are also enthusiastic about mobile robots.
