@@ -10,7 +10,7 @@
 <!-- - ⚡ Fun fact: I love binge watching anime :stuck_out_tongue_winking_eye: -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="40"/>
   </a>&nbsp;&nbsp;
