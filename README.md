@@ -64,7 +64,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ossome01&show_icons=true&locale=en&theme=dark" alt="Your GitHub Stats" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ossome01&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=your_username.OSSome01)
+<div align="center"><img src="https://komarev.com/ghpvc/?username=OSSome01&style=circle&color=dd6286" alt="views"/></div>
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
