@@ -5,7 +5,7 @@
 
 ### I'm pursuing my Masters in Robotics at Northeastern University:mortar_board:.  
 
-- 🔭 I’m currently working on SLAM and Semantic Segmentation :nerd_face: 
+- 🔭 I’m currently working on SLAM and Semantic Segmentation
 - 👯 I’m looking to collaborate with others who are also enthusiastic about mobile robots.
 <!-- - ⚡ Fun fact: I love binge watching anime :stuck_out_tongue_winking_eye: -->
 
