@@ -47,7 +47,7 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
   <a target="_blank" href="mailto:sargar.o@northeastern.edu">
     <img align="center" alt="Gmail" height="30" src="https://imgs.search.brave.com/3Y2_oYPTHKSUrt1pzi8tx1hOkmzIych51SZdniCpAwY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MDIvT3V0bG9vay1M/b2dvLTcwMHgzOTQu/cG5n" />
   </a>&nbsp;&nbsp;
