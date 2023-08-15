@@ -51,13 +51,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a target="_blank" href="mailto:sargar.o@northeastern.edu">
-    <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="left" alt="Gmail" width="26px" src="https://imgs.search.brave.com/mu9QMizWnHSImlTNwsMjXup7qFmmm1-Xykvfux4MZ0c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/d2lrLmNvbS9jb250/ZW50L3VwbG9hZHMv/aW1hZ2VzL21pY3Jv/c29mdC1vdXRsb29r/LW5ldy5qcGc" />
   </a>
   <a href="https://twitter.com/omkar_sargar" target="_blank">
-    <img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384065.png" alt="Twitter" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/180px-X_logo_2023.svg.png" alt="Twitter" height="30" width="30" />
   </a>
   <a href="https://linkedin.com/in/omkar-s-7ba8b3137" target="_blank">
-    <img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
+    <img align="center" src="https://imgs.search.brave.com/uGDtHsxME6trYi3Pg1IQoYBs0ZNStLg4fOwcz9gYrwo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n" alt="LinkedIn" height="30" width="30" />
   </a>
 </p>
 
